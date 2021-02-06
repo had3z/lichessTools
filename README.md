@@ -1,2 +1,1 @@
-# lichessTools
-Tools for lichess
+UserScripts for lichess
